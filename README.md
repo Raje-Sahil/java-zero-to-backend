@@ -10,6 +10,15 @@ A structured learning journey from Java fundamentals to becoming a Java Backend 
 - Become interview-ready
 - Land my first Java Backend Developer role
 
+ ## Learning Principles
+
+- Learn by understanding, not memorizing.
+- Write code myself before looking at solutions.
+- Commit meaningful progress to Git.
+- Build projects incrementally.
+- Document my learning journey.
+- Focus on becoming interview-ready.
+
 ## Repository Structure
 
 - Java Fundamentals
