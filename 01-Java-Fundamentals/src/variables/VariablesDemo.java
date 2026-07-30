@@ -3,6 +3,7 @@ package variables;
 public class VariablesDemo {
 
 	public static void main(String[] args) {
+		
 		int age;
 		String name;
 		double salary;
