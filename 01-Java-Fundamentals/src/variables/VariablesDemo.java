@@ -9,7 +9,7 @@ public class VariablesDemo {
 		
 		age = 22;
 		name = "sahil";
-		salary = 100000;
+		salary = 100000.0;
 		
 		System.out.println(age);
 		System.out.println(name);
